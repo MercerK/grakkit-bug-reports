@@ -1,0 +1,27 @@
+node_modules
+
+
+# SERVER Stuff
+cache
+config
+libraries
+logs
+bStats
+versions
+world
+world_nether
+world_the_end
+banned-ips.json
+banned-players.json
+bukkit.yml
+commands.yml
+eula.txt
+help.yml
+ops.json
+paper.yml-README.txt
+permissions.yml
+server.properties
+spigot.yml
+usercache.json
+version_history.json
+whitelist.json

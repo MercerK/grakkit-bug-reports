@@ -1,0 +1,10 @@
+{
+  "name": "grakkit-bugs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Kyle Mercer",
+  "license": "MIT",
+  "scripts": {
+    "start:zipFile": "cd ./bugReports/zipFile/server && java -Xms2G -Xmx2G -jar paper.jar -nogui"
+  }
+}
